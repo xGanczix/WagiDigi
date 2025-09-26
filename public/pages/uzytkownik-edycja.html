@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+    <title>Wagi - Home</title>
+    <style>
+      #raport-kasjerow,
+      #raport-etykiet,
+      #raport-porownanie,
+      #nva-uzytkownicy,
+      #serwis,
+      #ustawienia {
+        display: none;
+      }
+    </style>
+    <script>
+      if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark-mode");
+      }
+    </script>
+  </head>
+  <body>
+    <div class="one-page-container">
+      <div id="message"></div>
+      <div class="user-panel">
+        <button id="theme-mode-btn"><img id="theme-icon" /></button>
+      </div>
+      <form id="dodanie-uzytkownika-form">
+        <h2>Edycja Użytkownika</h2>
+        <label for="dodanie-uzytkownika-form-login">Login</label>
+        <input
+          type="text"
+          name="dodanie-uzytkownika"
+          id="dodanie-uzytkownika-form-login"
+          required
+        />
+        <label for="dodanie-uzytkownika-form-rola">Uprawnienia</label>
+        <select
+          name="dodanie-uzytkownika"
+          id="dodanie-uzytkownika-form-rola"
+          required
+        >
+          <option value="" disabled selected>-- Wybierz uprawnienia --</option>
+          <option value="1">Administrator</option>
+          <option value="2">Serwis</option>
+          <option value="3">Menadżer</option>
+          <option value="4">Pracownik</option>
+        </select>
+        <button type="button" id="uzytkownicy-edycja-btn">Edytuj</button>
+        <button type="button" id="uzytkownicy-powrot">Anuluj</button>
+      </form>
+    </div>
+    <script src="../js/config.js"></script>
+    <script src="../js/theme.js"></script>
+    <script src="../js/uzytkownik-edycja.js"></script>
+    <script src="../js/token.js"></script>
+  </body>
+</html>

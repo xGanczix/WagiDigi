@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+    <title>Wagi - Raport Kasjerów</title>
+    <style>
+      #raport-kasjerow,
+      #raport-etykiet,
+      #raport-porownanie,
+      #uzytkownicy,
+      #serwis,
+      #ustawienia {
+        display: none;
+      }
+    </style>
+    <script>
+      if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark-mode");
+      }
+      (() => {
+        const isClosed = localStorage.getItem("navState") === "closed";
+        if (isClosed) {
+          document.documentElement.classList.add("nav-closed");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="app-container">
+      <nav></nav>
+      <main>
+        <header>
+          <div class="header-left">
+            <button class="nav-button">
+              <img id="menu-icon" />
+            </button>
+          </div>
+          <div class="header-right">
+            <span id="username"></span>
+            <button id="theme-mode-btn">
+              <img id="theme-icon" />
+            </button>
+            <button id="logout">
+              <img id="logout-icon" />
+            </button>
+          </div>
+        </header>
+        <header class="filtrowanie">
+          <div class="header-one">
+            <label for="filtr-data-start">Początek:</label>
+            <input
+              type="date"
+              name="filtrowanie-wybor-daty"
+              id="filtr-data-start"
+            />
+            <label for="filtr-data-koniec">Koniec:</label>
+            <input
+              type="date"
+              name="filtrowanie-wybor-daty"
+              id="filtr-data-koniec"
+            />
+            <button id="filtr-data-filtruj"><img id="filtr-icon" /></button>
+          </div>
+        </header>
+        <div class="charts-container-filtr">
+          <div class="chart-row">
+            <div class="chart-container chart-3-in-row" id="top-produkty"></div>
+            <div class="chart-container chart-3-in-row" id="top-kasjerzy"></div>
+            <div
+              class="chart-3-in-row other-info-main-container chart-container-no-bg"
+            >
+              <div class="chart-1-in-row chart-container chart-btn-container">
+                <button id="csv">Eksport CSV</button>
+                <button id="pdf">Eksport PDF</button>
+                <button id="png">Eksport PNG</button>
+              </div>
+              <div class="chart-1-in-row chart-container">
+                <h3>Statystyki za zakres dat</h3>
+                <div class="other-info-container">
+                  <div class="other-info" id="ilosc-transakcji">
+                    <img id="raport-ilosc-transakcji-icon" />
+                    <p id="ilosc-transakcji-text"></p>
+                    <div id="ilosc-transakcji-legenda">Ilość Transakcji</div>
+                  </div>
+                  <div class="other-info" id="wartosc-transakcji">
+                    <img id="raport-wartosc-transakcji-icon" />
+                    <p id="wartosc-transakcji-text"></p>
+                    <div id="wartosc-transakcji-legenda">
+                      Wartość Transakcji
+                    </div>
+                  </div>
+                  <div class="other-info" id="waga-transakcji">
+                    <img id="raport-waga-transakcji-icon" />
+                    <p id="waga-transakcji-text"></p>
+                    <div id="waga-transakcji-legenda">Waga Transakcji</div>
+                  </div>
+                  <div class="other-info" id="top-dzien-tydzien">
+                    <img id="raport-top-dzien-icon" />
+                    <p id="top-dzien-text"></p>
+                    <div id="top-dzien-tydzien-legenda">Top Dzień z 7 dni</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="chart-row">
+            <div
+              class="chart-container chart-3-in-row"
+              id="ilosc-etykiet"
+            ></div>
+            <div
+              class="chart-container chart-3-in-row"
+              id="sprzedaz-wagi"
+            ></div>
+            <div class="chart-container chart-3-in-row" id="top-godziny"></div>
+          </div>
+        </div>
+      </main>
+    </div>
+    <script src="../js/config.js"></script>
+    <script src="../js/nav.js" type="module"></script>
+    <script src="../js/theme.js"></script>
+    <script src="../js/token.js"></script>
+    <script src="../js/logout.js"></script>
+    <script src="../js/apexChart.js"></script>
+    <script src="../js/raport-kasjerow.js"></script>
+  </body>
+</html>

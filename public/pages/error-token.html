@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wagi - Token</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+    <script>
+      if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark-mode");
+      }
+    </script>
+  </head>
+  <body>
+    <div class="app-token-error">
+      <div class="token-error">
+        <h2>⚠️ Błąd tokena ⚠️</h2>
+        <p>Wystąpił błąd sesji lub token wygasł</p>
+        <p>Nastąpi automatyczne przekierowanie do logowania</p>
+        <button id="powrot-logowanie">Zaloguj</button>
+      </div>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        setTimeout(() => {
+          window.location.href = "../index.html";
+        }, 5000);
+      });
+      document
+        .getElementById("powrot-logowanie")
+        .addEventListener("click", () => {
+          window.location.href = "../index.html";
+        });
+    </script>
+    <script src="../js/theme.js"></script>
+  </body>
+</html>

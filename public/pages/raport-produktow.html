@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+    <title>Wagi - Użytkownicy</title>
+    <style>
+      #raport-kasjerow,
+      #raport-etykiet,
+      #raport-porownanie,
+      #nav-uzytkownicy,
+      #serwis,
+      #ustawienia {
+        display: none;
+      }
+    </style>
+    <script>
+      if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark-mode");
+      }
+      (() => {
+        const isClosed = localStorage.getItem("navState") === "closed";
+        if (isClosed) {
+          document.documentElement.classList.add("nav-closed");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="app-container">
+      <div id="message"></div>
+      <nav></nav>
+      <main>
+        <header>
+          <div class="header-left">
+            <button class="nav-button">
+              <img id="menu-icon" />
+            </button>
+          </div>
+          <div class="header-right">
+            <span id="username"></span>
+            <button id="theme-mode-btn">
+              <img id="theme-icon" />
+            </button>
+            <button id="logout">
+              <img id="logout-icon" />
+            </button>
+          </div>
+        </header>
+        <header class="filtrowanie">
+          <div class="header-left">
+            <div class="input-icon-container">
+              <img id="raport-produktow-search-icon" />
+              <input
+                type="input"
+                name="raport-produktow"
+                id="raport-produktow-nazwa-search"
+                autocomplete="off"
+                placeholder="Nazwa"
+              />
+            </div>
+            <div class="input-icon-container">
+              <img id="raport-produktow-kod-search-icon" />
+              <input
+                type="input"
+                name="raport-produktow"
+                id="raport-produktow-kod-search"
+                autocomplete="off"
+                placeholder="Kod"
+                maxlength="13"
+                value="270001???????"
+              />
+              <ul id="raport-produktow-kod-results"></ul>
+            </div>
+            <label for="raport-produktow-start-date">Od: </label>
+            <input
+              type="date"
+              name="raport-produktow"
+              id="raport-produktow-start-date"
+              value="2025-01-01"
+            />
+            <label for="raport-produktow-end-date">Do: </label>
+            <input
+              type="date"
+              name="raport-produktow"
+              id="raport-produktow-end-date"
+            />
+            <ul id="raport-produktow-nazwa-results"></ul>
+          </div>
+          <div class="header-right">
+            <button class="header-btns" id="raport-produktow-search-reset">
+              Wyczyść
+            </button>
+            <button class="header-btns" id="raport-produktow-search-report">
+              Raportuj
+            </button>
+          </div>
+        </header>
+        <div class="main-container">
+          <div id="product-line-chart-container"></div>
+        </div>
+      </main>
+    </div>
+    <script src="../js/config.js"></script>
+    <script src="../js/nav.js" type="module"></script>
+    <script src="../js/theme.js"></script>
+    <script src="../js/token.js"></script>
+    <script src="../js/logout.js"></script>
+    <script src="../js/apexChart.js"></script>
+    <script src="../js/raport-produktow.js"></script>
+  </body>
+</html>

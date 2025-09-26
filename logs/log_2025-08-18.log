@@ -1,0 +1,58 @@
+[2025-08-18 11:12:26] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-08-18 11:13:20] [INFO] Zalogowano admin
+[2025-08-18 11:13:20] [INFO] Pobranie danych o top produktach
+[2025-08-18 11:13:20] [INFO] Pobranie danych o top kasjerach
+[2025-08-18 11:13:20] [INFO] Pobranie danych o top godzinach
+[2025-08-18 11:13:20] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-08-18 11:13:20] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-08-18 11:13:20] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-08-18 11:13:20] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-08-18 11:13:20] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-08-18 11:13:21] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-08-18 11:13:30] [INFO] Pobranie danych o top produktach
+[2025-08-18 11:13:30] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-08-18 11:13:30] [INFO] Pobranie danych o top kasjerach
+[2025-08-18 11:13:30] [INFO] Pobranie danych o top godzinach
+[2025-08-18 11:13:30] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-08-18 11:13:30] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-08-18 11:13:30] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-08-18 11:13:30] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-08-18 11:13:30] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-08-18 11:15:18] [INFO] Pobranie danych o top produktach
+[2025-08-18 11:15:18] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-08-18 11:15:18] [INFO] Pobranie danych o top kasjerach
+[2025-08-18 11:15:18] [INFO] Pobranie danych o top godzinach
+[2025-08-18 11:15:18] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-08-18 11:15:18] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-08-18 11:15:18] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-08-18 11:15:18] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-08-18 11:15:18] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-08-18 11:15:29] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-08-18 11:15:42] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-08-18 11:15:42] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-08-18 11:15:52] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-08-18 11:16:06] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-08-18 11:16:21] [INFO] Pobranie danych o top produktach
+[2025-08-18 11:16:21] [INFO] Pobranie danych o top kasjerach
+[2025-08-18 11:16:21] [INFO] Pobranie danych o top godzinach
+[2025-08-18 11:16:21] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-08-18 11:16:21] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-08-18 11:16:21] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-08-18 11:16:21] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-08-18 11:16:21] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-08-18 11:16:21] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-08-18 11:16:24] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-08-18 11:17:27] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-08-18 11:18:15] [INFO] Pobranie danych o użytkownikach
+[2025-08-18 11:18:28] [INFO] Wylogowano użytkownika: admin
+[2025-08-18 11:18:33] [INFO] Zalogowano 123
+[2025-08-18 11:18:33] [INFO] Pobranie danych o top produktach
+[2025-08-18 11:18:33] [INFO] Pobranie danych o top kasjerach
+[2025-08-18 11:18:33] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-08-18 11:18:33] [INFO] Pobranie danych o top godzinach
+[2025-08-18 11:18:33] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-08-18 11:18:33] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-08-18 11:18:34] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-08-18 11:18:34] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-08-18 11:18:34] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-08-18 11:19:40] [INFO] Aplikacja uruchomiona na porcie: 3000

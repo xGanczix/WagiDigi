@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Podgląd logów</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 20px;
+      }
+      #logList li {
+        margin: 5px 0;
+        cursor: pointer;
+        color: #007bff;
+      }
+      #logContent {
+        margin-top: 20px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        background-color: #f9f9f9;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Lista plików logów</h1>
+    <ul id="logList"></ul>
+    <h2>Zawartość pliku:</h2>
+    <div id="logContent"></div>
+
+    <script>
+      function kolorujLogi(logText) {
+        const lines = logText.replace(/\r/g, "").split("\n");
+        return lines
+          .filter((line) => line.trim() !== "")
+          .map((line) => {
+            const match = line.match(/^\[(.*?)\] \[(.*?)\] (.*)$/);
+            if (match) {
+              const [, data, level, message] = match;
+              let color;
+              switch (level) {
+                case "INFO":
+                  color = "green";
+                  break;
+                case "WARNING":
+                  color = "orange";
+                  break;
+                case "ERROR":
+                  color = "red";
+                  break;
+                default:
+                  color = "gray";
+              }
+              return `
+          <div style="margin-bottom: 1em;">
+            <span style="color: #007bff">[${data}]</span>
+            <span style="color: ${color};">[${level}]</span>
+            <span> ${message}</span>
+          </div>
+        `;
+            } else {
+              return `<div>${line}</div>`;
+            }
+          })
+          .join("");
+      }
+
+      fetch("/api/logs")
+        .then((res) => res.json())
+        .then((files) => {
+          const list = document.getElementById("logList");
+          files.forEach((file) => {
+            const li = document.createElement("li");
+            li.textContent = file;
+            li.onclick = () => {
+              fetch(`/api/logs/${file}`)
+                .then((res) => res.text())
+                .then((content) => {
+                  document.getElementById("logContent").innerHTML =
+                    kolorujLogi(content);
+                });
+            };
+
+            list.appendChild(li);
+          });
+        });
+    </script>
+  </body>
+</html>

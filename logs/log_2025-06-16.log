@@ -1,0 +1,849 @@
+[2025-06-16 08:44:16] [WARNING] Nieudana próba logowania dla SERWIS
+[2025-06-16 08:44:18] [INFO] Zalogowano SERWIS
+[2025-06-16 08:44:18] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 08:44:18] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 08:44:18] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 08:44:18] [INFO] Pobranie danych o top produktach
+[2025-06-16 08:44:18] [INFO] Pobranie danych o top godzinach
+[2025-06-16 08:44:18] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 08:44:18] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 08:44:18] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 08:44:19] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 08:44:26] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-16 08:44:33] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:16:24] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:16:40] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:20:50] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:21:31] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:32:14] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:32:19] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:32:47] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:33:12] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:33:13] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:33:37] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:33:39] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:33:47] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:33:47] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:37:30] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:38:17] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:40:12] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:47:31] [INFO] Zalogowano SERWIS
+[2025-06-16 09:47:32] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 09:47:32] [INFO] Pobranie danych o top produktach
+[2025-06-16 09:47:32] [INFO] Pobranie danych o top godzinach
+[2025-06-16 09:47:32] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 09:47:32] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 09:47:32] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 09:47:32] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 09:47:32] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 09:47:32] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 09:51:56] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:51:59] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:52:03] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:52:52] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 09:52:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:52:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:52:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:52:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:52:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:41] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:41] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:41] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:42] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:43] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:44] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:44] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:45] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:53:45] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:57:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:57:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:57:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 09:57:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:00:55] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 10:03:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:07] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:08] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:09] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:09] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:09] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:12] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:12] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:03:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:06:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:06:07] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:06:07] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:06:09] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:16] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:39] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:39] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:39] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:39] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:40] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:40] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:40] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:40] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:50] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:07:51] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:32] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:33] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:08:34] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:09:39] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:10:23] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:17] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:17] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:36] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:36] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:37] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:37] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:54] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:11:54] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:12:00] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 10:12:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:38:33] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 11:38:33] [INFO] Pobranie danych o top produktach
+[2025-06-16 11:38:33] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 11:38:33] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 11:38:33] [INFO] Pobranie danych o top godzinach
+[2025-06-16 11:38:33] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 11:38:33] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 11:38:33] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 11:38:33] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 11:38:38] [INFO] Zalogowano SERWIS
+[2025-06-16 11:38:38] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 11:38:38] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 11:38:38] [INFO] Pobranie danych o top produktach
+[2025-06-16 11:38:38] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 11:38:38] [INFO] Pobranie danych o top godzinach
+[2025-06-16 11:38:38] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 11:38:38] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 11:38:38] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 11:38:38] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 11:38:45] [INFO] Pobranie danych o top produktach
+[2025-06-16 11:38:45] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 11:38:45] [INFO] Pobranie danych o top godzinach
+[2025-06-16 11:38:45] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 11:38:45] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 11:38:45] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 11:38:45] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 11:38:45] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 11:38:45] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 11:38:53] [INFO] Pobranie danych o top produktach
+[2025-06-16 11:38:53] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 11:38:53] [INFO] Pobranie danych o top godzinach
+[2025-06-16 11:38:53] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 11:38:53] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 11:38:53] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 11:38:53] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 11:38:53] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 11:38:53] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 11:40:15] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-16 11:40:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:40:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:40:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:40:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:40:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:40:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:40:23] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:40:35] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-16 11:40:37] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:42:15] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:42:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:42:32] [INFO] Pobranie danych o top produktach
+[2025-06-16 11:42:32] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 11:42:32] [INFO] Pobranie danych o top godzinach
+[2025-06-16 11:42:32] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 11:42:32] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 11:42:32] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 11:42:32] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 11:42:32] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 11:42:32] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 11:42:42] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-16 11:42:47] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:42:48] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:43:17] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:43:17] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:43:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:43:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:44:00] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:44:00] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:44:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:44:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:44:43] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:44:43] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:45:55] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:45:55] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:45:56] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:30] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:30] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:30] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:30] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:30] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:30] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:31] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:31] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:31] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:32] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:32] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:58] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:46:58] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:26] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:26] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:26] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:35] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:35] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:37] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:40] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:40] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:49] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:47:49] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:48:18] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:48:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:49:31] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:49:31] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:49:58] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:49:58] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:49:58] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:49:58] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:49:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:00] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:13] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:13] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:13] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:14] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:46] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:46] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:46] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:46] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:50:46] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:51:33] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:51:47] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:51:47] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:52:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:52:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:52:15] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:52:18] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:52:18] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:52:57] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:52:58] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:52:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:52:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:06] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:53:34] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:53:36] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:36] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:36] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:37] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:37] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:37] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:37] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:38] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:45] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:53:47] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:48] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:52] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:53:53] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:53:53] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:54:12] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:54:14] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:54:14] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:54:31] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:54:33] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:54:33] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:54:33] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:54:39] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:54:47] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:55:04] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:55:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:13] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:13] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:14] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:14] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:14] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:14] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:15] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:30] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:55:37] [INFO] Zalogowano SERWIS
+[2025-06-16 11:55:37] [INFO] Pobranie danych o top godzinach
+[2025-06-16 11:55:37] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 11:55:37] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 11:55:37] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 11:55:37] [INFO] Pobranie danych o top produktach
+[2025-06-16 11:55:37] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 11:55:37] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 11:55:37] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 11:55:37] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 11:55:41] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:55:41] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:01] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:03] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:56:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:57:05] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:57:16] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:16] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:17] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:18] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:18] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:19] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:19] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:19] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:20] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:20] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:20] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:20] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: An expression of non-boolean type specified in a context where a condition is expected, near 'LIKKE'.
+[2025-06-16 11:57:32] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:57:33] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: The data types varchar and varchar are incompatible in the modulo operator.
+[2025-06-16 11:57:33] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: The data types varchar and varchar are incompatible in the modulo operator.
+[2025-06-16 11:57:34] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: The data types varchar and varchar are incompatible in the modulo operator.
+[2025-06-16 11:57:43] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:57:44] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: The data types varchar and varchar are incompatible in the modulo operator.
+[2025-06-16 11:57:44] [ERROR] Błąd podczas pobierania danych o towarach PCM: RequestError: The data types varchar and varchar are incompatible in the modulo operator.
+[2025-06-16 11:58:07] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 11:58:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:11] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:13] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:15] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:16] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:16] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:16] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:17] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:18] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:18] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:18] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:19] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:22] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:23] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:23] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:23] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:23] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:24] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:25] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:25] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 11:58:26] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:01:16] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 12:01:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:01:21] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:02:46] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 12:02:46] [INFO] Pobranie danych o top produktach
+[2025-06-16 12:02:46] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 12:02:46] [INFO] Pobranie danych o top godzinach
+[2025-06-16 12:02:46] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 12:02:46] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 12:02:46] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 12:02:46] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 12:02:46] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 12:03:01] [INFO] Pobranie danych o top produktach
+[2025-06-16 12:03:01] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 12:03:01] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 12:03:01] [INFO] Pobranie danych o top godzinach
+[2025-06-16 12:03:01] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 12:03:01] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 12:03:01] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 12:03:01] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 12:03:01] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 12:03:49] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:03:56] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:04:33] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:04:44] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:05:05] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:05:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:05:26] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:08:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 12:08:02] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:29:41] [INFO] Zalogowano SERWIS
+[2025-06-16 13:29:41] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 13:29:41] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 13:29:41] [INFO] Pobranie danych o top produktach
+[2025-06-16 13:29:41] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 13:29:41] [INFO] Pobranie danych o top godzinach
+[2025-06-16 13:29:41] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 13:29:41] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 13:29:41] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 13:29:41] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 13:30:16] [INFO] Pobranie danych o top produktach
+[2025-06-16 13:30:16] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 13:30:16] [INFO] Pobranie danych o top godzinach
+[2025-06-16 13:30:16] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 13:30:16] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 13:30:16] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 13:30:16] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 13:30:16] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 13:30:16] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 13:30:17] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:30:21] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-16 13:32:53] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:32:53] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:33:41] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:33:41] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:33:53] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:33:53] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:33:53] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:33:53] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:38] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:38] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:38] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:57] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:57] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:34:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:35:20] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:35:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:35:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:35:38] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:35:38] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:38:04] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:38:30] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:38:39] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 13:38:55] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:38:55] [ERROR] Błąd podczas pobierania danych o wydruku dziennym etykiet || RequestError: Column 'ReportPluTransactions.ItemName' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause.
+[2025-06-16 13:39:05] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:39:05] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 13:39:33] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:39:56] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:48:32] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:57:05] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:57:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:57:22] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:57:26] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:57:54] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:57:54] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:58:23] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:58:23] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:58:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:58:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:59:01] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:59:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:59:04] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:59:33] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:59:47] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:59:51] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:59:51] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:59:58] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 13:59:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 13:59:59] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:10] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:26] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:00:27] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:29] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:30] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:39] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:00:46] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:00:47] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:00:47] [INFO] Pobranie danych o użytkownikach
+[2025-06-16 14:01:27] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:01:48] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:01:52] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:02:14] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:02:26] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:02:45] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:03:11] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:03:32] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:03:40] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:03:44] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:03:48] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:03:53] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:03:53] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:04:23] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:04:24] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:04:24] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:04:26] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:04:26] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:04:48] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:04:48] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:04:48] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:05:58] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:05:58] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:05:59] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:01] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:01] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:02] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:02] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:04] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:06:05] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:06] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:07] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:06:07] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:06:08] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:06:09] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:06:09] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:06:10] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:11] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:12] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:06:13] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:07:00] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:07:25] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:07:36] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:07:38] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:07:40] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:07:50] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:07:50] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:07:50] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:07:50] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:07:50] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:07:51] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:08:15] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:08:18] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:18] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:25] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:08:25] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:08:39] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:08:41] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:41] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:48] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:48] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:49] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:49] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:50] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:50] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:50] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:50] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:51] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:53] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:54] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:08:54] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:09:19] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:09:20] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:09:24] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:09:25] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:10:14] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:10:15] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:10:16] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:10:28] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:10:29] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:10:29] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 14:10:59] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:10:59] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:00] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:02] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:02] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:02] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:02] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:02] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:02] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:11:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:12:29] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:12:48] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:13:29] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:13:33] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:14:50] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 14:14:53] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:14:54] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:14:54] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 14:14:59] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:19:35] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:19:35] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:19:45] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:19:54] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:19:54] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:21:20] [INFO] Zalogowano SERWIS
+[2025-06-16 15:21:21] [INFO] Pobranie danych o top produktach
+[2025-06-16 15:21:21] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-16 15:21:21] [INFO] Pobranie danych o top godzinach
+[2025-06-16 15:21:21] [INFO] Pobranie danych o top kasjerach
+[2025-06-16 15:21:21] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-16 15:21:21] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-16 15:21:21] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-16 15:21:21] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-16 15:21:21] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-16 15:22:02] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:22:40] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:23:47] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:24:05] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:24:30] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:25:51] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:25:58] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:26:14] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:26:15] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:26:15] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:26:17] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:17] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:27] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:28] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:29] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:26:29] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:28:08] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:29:51] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:30:46] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:31:06] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:31:08] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:31:08] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:31:12] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:31:37] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:31:47] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:32:40] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:32:53] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:32:58] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:33:37] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:34:19] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:35:00] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:35:52] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:36:08] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:36:46] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:37:56] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:37:56] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:38:00] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:38:09] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:40:53] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:40:59] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:40:59] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:41:07] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:41:10] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:11] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:11] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:11] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:11] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:11] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:11] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:11] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:11] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:12] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:12] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:12] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:12] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:12] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:41:15] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:42:15] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:42:19] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:42:19] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:42:20] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:42:20] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:42:25] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:43:11] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:43:15] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:43:15] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:43:16] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:43:16] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:43:16] [INFO] Pobranie danych o towarach PCM po nazwie
+[2025-06-16 15:43:22] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:43:43] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:43:47] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:43:47] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:43:47] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:43:48] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:43:48] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:43:48] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:43:52] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:44:19] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:44:21] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:44:21] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:44:22] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:44:22] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:44:22] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:44:22] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:44:26] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:45:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:45:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:45:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:45:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:45:03] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:45:05] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:45:05] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:45:06] [INFO] Pobranie danych o towarach PCM po kodzie
+[2025-06-16 15:45:10] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:45:51] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:46:22] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:46:50] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:47:10] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:47:11] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:47:12] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:47:26] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:47:31] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:48:04] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:48:05] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:48:12] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:48:12] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:48:30] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:48:34] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:48:38] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:48:56] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:49:23] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:50:31] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:50:32] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:50:32] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:50:46] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:50:58] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:52:07] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-16 15:52:09] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:52:13] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-16 15:52:17] [INFO] Aplikacja uruchomiona na porcie: 3000

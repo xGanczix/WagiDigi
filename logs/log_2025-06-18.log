@@ -1,0 +1,23 @@
+[2025-06-18 08:22:26] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-18 08:22:33] [INFO] Zalogowano SERWIS
+[2025-06-18 08:22:33] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-18 08:22:33] [INFO] Pobranie danych o top produktach
+[2025-06-18 08:22:33] [INFO] Pobranie danych o top kasjerach
+[2025-06-18 08:22:33] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-18 08:22:33] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-18 08:22:33] [INFO] Pobranie danych o top godzinach
+[2025-06-18 08:22:33] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-18 08:22:33] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-18 08:22:33] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-18 08:22:39] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-18 08:22:40] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-18 08:23:00] [INFO] Pobranie danych o użytkownikach
+[2025-06-18 08:23:04] [INFO] Pobranie danych o użytkowniku o ID: 3
+[2025-06-18 08:23:06] [INFO] Pobranie danych o użytkownikach
+[2025-06-18 08:44:18] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-18 08:44:24] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-18 08:44:26] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-18 08:44:31] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-18 08:45:04] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-18 09:02:10] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-18 09:51:32] [INFO] Aplikacja uruchomiona na porcie: 3000

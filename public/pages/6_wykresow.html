@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+    <title>Wagi - Raport Kasjerów</title>
+    <script>
+      if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark-mode");
+      }
+      (() => {
+        const isClosed = localStorage.getItem("navState") === "closed";
+        if (isClosed) {
+          document.documentElement.classList.add("nav-closed");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="app-container">
+      <nav></nav>
+      <main>
+        <header>
+          <div class="header-left">
+            <button class="nav-button">
+              <img id="menu-icon" />
+            </button>
+          </div>
+          <div class="header-right">
+            <span id="username"></span>
+            <button id="theme-mode-btn">
+              <img id="theme-icon" />
+            </button>
+            <button id="logout">
+              <img id="logout-icon" />
+            </button>
+          </div>
+        </header>
+        <div class="charts-container">
+          <div class="chart-row">
+            <div class="chart-container chart-3-in-row" id="top-produkty"></div>
+            <div class="chart-container chart-3-in-row" id="top-kasjerzy"></div>
+            <div class="chart-container chart-3-in-row" id="top-godziny"></div>
+          </div>
+          <div class="chart-row">
+            <div
+              class="chart-container chart-3-in-row"
+              id="ilosc-etykiet"
+            ></div>
+            <div class="chart-container chart-3-in-row" id=""></div>
+            <div class="chart-container chart-3-in-row" id=""></div>
+          </div>
+        </div>
+      </main>
+    </div>
+    <script src="../js/config.js"></script>
+    <script src="../js/nav.js" type="module"></script>
+    <script src="../js/theme.js"></script>
+  </body>
+</html>

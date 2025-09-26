@@ -1,0 +1,78 @@
+[2025-06-17 09:06:16] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-17 13:16:13] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-17 13:16:20] [INFO] Zalogowano SERWIS
+[2025-06-17 13:16:20] [INFO] Pobranie danych o top kasjerach
+[2025-06-17 13:16:20] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-17 13:16:20] [INFO] Pobranie danych o top produktach
+[2025-06-17 13:16:20] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-17 13:16:20] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-17 13:16:20] [INFO] Pobranie danych o top godzinach
+[2025-06-17 13:16:20] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-17 13:16:20] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-17 13:16:20] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-17 13:16:29] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-17 13:16:40] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-17 13:16:45] [INFO] Pobranie danych o wydruku dziennym etykiet
+[2025-06-17 14:03:40] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-17 14:28:28] [INFO] Pobranie danych o użytkownikach
+[2025-06-17 14:28:32] [WARNING] Nieudana próba logowania dla SERWIS
+[2025-06-17 14:28:34] [INFO] Zalogowano SERWIS
+[2025-06-17 14:28:34] [INFO] Pobranie danych o top produktach
+[2025-06-17 14:28:34] [INFO] Pobranie danych o top kasjerach
+[2025-06-17 14:28:34] [INFO] Pobranie danych o top godzinach
+[2025-06-17 14:28:34] [INFO] Pobranie danych o sumie wagi na dzień
+[2025-06-17 14:28:34] [INFO] Pobranie danych o wartości sprzedaży towarów
+[2025-06-17 14:28:34] [INFO] Pobranie danych o transakcjach na tydzień
+[2025-06-17 14:28:34] [INFO] Pobranie danych o wadze transakcji na tydzień
+[2025-06-17 14:28:34] [INFO] Pobranie danych o wartości transakcji na tydzień
+[2025-06-17 14:28:34] [INFO] Pobranie danych o top dniu w tygodniu
+[2025-06-17 14:28:40] [INFO] Pobranie danych o użytkownikach
+[2025-06-17 14:30:11] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:30:14] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:30:21] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:30:53] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:32:32] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-17 14:32:35] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:32:37] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:34:21] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:34:24] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:37:57] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-17 14:38:08] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:38:36] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:38:38] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:38:39] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:38:39] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:38:40] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:38:40] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:38:43] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:19] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:20] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:21] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:21] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:21] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:21] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:22] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:22] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:22] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:22] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:22] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:23] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:23] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:39] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:39] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:40] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:40] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:40] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:39:40] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:40:02] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:40:02] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:40:03] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:40:03] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:40:03] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:40:03] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:40:03] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:41:15] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-17 14:41:17] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:41:36] [INFO] Porównanie danych o sprzedaży na podstawie tabel Wagi i PCM
+[2025-06-17 14:42:18] [INFO] Aplikacja uruchomiona na porcie: 3000
+[2025-06-17 14:43:18] [INFO] Aplikacja uruchomiona na porcie: 3000

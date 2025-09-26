@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+    <title>Wagi - Home</title>
+    <style>
+      #raport-kasjerow,
+      #raport-etykiet,
+      #raport-porownanie,
+      #nva-uzytkownicy,
+      #serwis,
+      #ustawienia {
+        display: none;
+      }
+    </style>
+    <script>
+      if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark-mode");
+      }
+      (() => {
+        const isClosed = localStorage.getItem("navState") === "closed";
+        if (isClosed) {
+          document.documentElement.classList.add("nav-closed");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="app-container">
+      <nav></nav>
+      <main>
+        <header>
+          <div class="header-left">
+            <button class="nav-button">
+              <img id="menu-icon" />
+            </button>
+          </div>
+          <div class="header-right">
+            <span id="username"></span>
+            <button id="theme-mode-btn">
+              <img id="theme-icon" />
+            </button>
+            <button id="logout">
+              <img id="logout-icon" />
+            </button>
+          </div>
+        </header>
+        <div class="main-container">
+          <table id="porownanie-sprzedazy">
+            <thead>
+              <tr>
+                <th class="column-roznica-120">Różnica</th>
+                <th>Status</th>
+                <th>Kod towaru</th>
+                <th>Wydrukowano Etykietę</th>
+                <th class="column-roznica-120">Kasjer Waga</th>
+                <th>Opis</th>
+                <th class="column-action-btns"></th>
+              </tr>
+            </thead>
+          </table>
+          <table id="porownanie-sprzedazy">
+            <tbody id="porownanie-sprzedazy-tbody"></tbody>
+          </table>
+        </div>
+      </main>
+    </div>
+    <script src="../js/config.js"></script>
+    <script src="../js/nav.js" type="module"></script>
+    <script src="../js/theme.js"></script>
+    <script src="../js/token.js"></script>
+    <script src="../js/logout.js"></script>
+    <script src="../js/porownanie.js"></script>
+  </body>
+</html>

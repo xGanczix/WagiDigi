@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/styles.css" />
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
+    <title>Wagi - Użytkownicy</title>
+    <style>
+      #raport-kasjerow,
+      #raport-etykiet,
+      #raport-porownanie,
+      #nav-uzytkownicy,
+      #serwis,
+      #ustawienia {
+        display: none;
+      }
+    </style>
+    <script>
+      if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark-mode");
+      }
+      (() => {
+        const isClosed = localStorage.getItem("navState") === "closed";
+        if (isClosed) {
+          document.documentElement.classList.add("nav-closed");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="app-container">
+      <div id="message"></div>
+      <nav></nav>
+      <main>
+        <header>
+          <div class="header-left">
+            <button class="nav-button">
+              <img id="menu-icon" />
+            </button>
+          </div>
+          <div class="header-right">
+            <span id="username"></span>
+            <button id="theme-mode-btn">
+              <img id="theme-icon" />
+            </button>
+            <button id="logout">
+              <img id="logout-icon" />
+            </button>
+          </div>
+        </header>
+        <header class="filtrowanie">
+          <div class="header-left">
+            <select name="filtrowanie-status" id="filtrowanie-status">
+              <option value="1">Aktywne</option>
+              <option value="2">Usunięte</option>
+              <option value="3">Wszystkie</option>
+            </select>
+          </div>
+          <div class="header-right">
+            <button class="filtrowanie-button" id="filtrowanie-dodaj">
+              Dodaj
+            </button>
+          </div>
+        </header>
+        <div class="main-container">
+          <div class="confirm-delete">
+            <h2>Czy chcesz usunąć użytkownika?</h2>
+            <div class="confirm-btn-container">
+              <button type="button" id="confirm-delete-tak">Tak</button>
+              <button type="button" id="confirm-delete-nie">Nie</button>
+            </div>
+          </div>
+          <div class="confirm-restore">
+            <h2>Czy chcesz przywrócić użytkownika?</h2>
+            <div class="confirm-btn-container">
+              <button type="button" id="confirm-restore-tak">Tak</button>
+              <button type="button" id="confirm-restore-nie">Nie</button>
+            </div>
+          </div>
+          <table id="uzytkownicy">
+            <thead>
+              <tr>
+                <th class="column-id">Id</th>
+                <th>Login</th>
+                <th>Aktywny</th>
+                <th>Data Utworzenia</th>
+                <th>Uprawnienia</th>
+                <th class="column-action-btns"></th>
+              </tr>
+            </thead>
+          </table>
+          <table id="uzytkownicy">
+            <tbody id="uzytkownicy-tbody"></tbody>
+          </table>
+        </div>
+      </main>
+    </div>
+    <script src="../js/config.js"></script>
+    <script src="../js/nav.js" type="module"></script>
+    <script src="../js/theme.js"></script>
+    <script src="../js/token.js"></script>
+    <script src="../js/logout.js"></script>
+    <script src="../js/uzytkownicy.js"></script>
+  </body>
+</html>

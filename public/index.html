@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wagi - logowanie</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <script>
+      if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark-mode");
+      }
+    </script>
+  </head>
+  <body>
+    <div class="login-container">
+      <div id="message-login"></div>
+      <div class="user-panel">
+        <button id="theme-mode-btn"><img id="theme-icon" /></button>
+      </div>
+      <form id="login-form">
+        <h2>Logowanie</h2>
+        <label for="login-form-login">Login</label>
+        <input
+          type="text"
+          name=""
+          id="login-form-login"
+          class="form-control"
+          required
+        />
+        <label for="login-form-password">Hasło</label>
+        <input
+          type="password"
+          name=""
+          id="login-form-password"
+          class="form-control"
+          required
+        />
+        <button type="submit">Zaloguj</button>
+      </form>
+    </div>
+    <script src="js/config.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/login.js"></script>
+  </body>
+</html>
